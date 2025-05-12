@@ -3,6 +3,10 @@ body{
 	background-color: aliceblue;
 }
 .introduction{
-	font-size: 12pt
+	font-size: 14pt;
 
+}
+.fitness{
+	font-size: 14pt;
+	image-orientation: center;
 }
