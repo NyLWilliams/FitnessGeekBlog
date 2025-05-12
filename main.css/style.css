@@ -8,5 +8,6 @@ body{
 }
 .fitness{
 	font-size: 14pt;
-	image-orientation: center;
+	min-width: 100;
+	min-height: 100;
 }
