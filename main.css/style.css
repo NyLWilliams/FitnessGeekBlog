@@ -2,3 +2,7 @@
 body{
 	font-size: medium;
 }
+.image{
+	width: 400px;
+	height: auto;
+}
