@@ -1,16 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
-body{ 
-	background-color: aliceblue;
-}
-.introduction{
-	font-size: 14pt;
 
-}
-.fitness{
-	font-size: 14pt;
-}
-.curling{
-	height: 400px;
-	width: 400px;
-
+body{
+	font-size: medium;
 }
