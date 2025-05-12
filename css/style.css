@@ -2,5 +2,9 @@
 body{
 	background-image:"mental-toughness-970x647.jpg"
 }
-
+.background-image{
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
  
