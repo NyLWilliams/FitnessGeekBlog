@@ -1,8 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
-body{
+.background{
 	background-image:url('images/Mental-Toughness-970x647.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content:center;
+	color: white;
 }
  
