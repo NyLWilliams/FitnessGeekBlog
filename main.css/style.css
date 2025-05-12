@@ -3,6 +3,7 @@ body{
 	font-size: medium;
 }
 .image{
-	max-width: min-content;
-	height: none;
+	display: fixed;
+	width: 250px;
+	height: 167px;
 }
