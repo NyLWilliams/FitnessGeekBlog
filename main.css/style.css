@@ -1,14 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
-
-body {.titillium-web-extralight {
-	font-family: "Titillium Web", sans-serif;
-	font-weight: 200;
-	font-style: normal;
-  }
+body{
+	background-image:url('images/Mental-Toughness-970x647.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 0;
+	min-height: 200vh;
 }
-* {
-	text-align: center;
-}	
-h1 {
-	text-align: center;
+.conclusion-header{
+image {
+@keyframes spin {	
+	from{
+	transform: rotate(0deg);
 }
+to{
+	transform: rotate(360deg);
+}
+}
+}		
+}
+.spin{
+	width: 50px;
+	height: 50px;
+	animation: spin 2s linear infinite;
+}
+ 
