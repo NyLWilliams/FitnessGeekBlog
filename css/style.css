@@ -20,7 +20,7 @@ to{
 	height: 50px;
 	animation: spin 2s linear infinite;
 }
-.body-container{
+.heading{
 	border-color: blue;
 	color: white;
 }
