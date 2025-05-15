@@ -21,10 +21,5 @@ to{
 	animation: spin 2s linear infinite;
 }
 .heading{
-	border-color: blue;
 	color: white;
-}
-.paragraph{
-	color: grey;
-	font-size: 14pt;
 }
